@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Exo&family=Lalezar&family=Oleo+Script&family=Playfair+Display+SC&family=Poppins&family=Roboto:wght@300&family=Tilt+Neon&display=swap');
+
+/* font-family: 'Exo', sans-serif;
+  font-family: 'Oleo Script', cursive;
+  font-family: 'Playfair Display SC', serif;
+  font-family: 'Lalezar', cursive;
+  font-family: 'Roboto', sans-serif;
+  font-family: 'Poppins', sans-serif;
+  */
+
+:root{
+    --font: 'Oleo Script', cursive;
+}
+
+*{
+  font-family: 'Poppins', sans-serif;
+  /* border: 1px solid red; */
+}
+
+.logo{
+    font-family: var(--font);
+}
