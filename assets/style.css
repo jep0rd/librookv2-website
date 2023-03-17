@@ -23,3 +23,6 @@
 span.price{
   cursor: default;
 }
+p{
+  text-align: justify;
+}
