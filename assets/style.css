@@ -20,3 +20,6 @@
 .logo{
     font-family: var(--font);
 }
+span.price{
+  cursor: default;
+}
